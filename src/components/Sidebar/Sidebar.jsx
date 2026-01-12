@@ -4,7 +4,7 @@ import './Sidebar.css'
 const Sidebar = () => {
   return (
     <div>
-        
+      <button>Hello</button>  
     </div>
   )
 }
